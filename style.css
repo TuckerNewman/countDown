@@ -1,0 +1,21 @@
+div{
+    font-family: 'Press Start 2P', cursive;
+    text-align: center;
+    font-size: 3em;
+    color: white;
+    margin-top: 25vh;
+
+}
+
+body{
+    background-image: url('https://mir-s3-cdn-cf.behance.net/project_modules/fs/223e6792880429.5e569ff84ebef.gif');
+    background-size: cover;
+}
+
+@media only screen and (max-width: 980px) {
+    body {
+      background-size: auto;
+      background-position: left;
+    }
+  }
+
